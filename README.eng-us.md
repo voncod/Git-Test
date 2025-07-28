@@ -1,1 +1,2 @@
-README created using nano in Git Bash
+## README created using nano in Git Bash
+A simple test
